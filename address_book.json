@@ -1,0 +1,32 @@
+[
+    {
+        "first_name": "Ken",
+        "last_name": "Barlow",
+        "phone": "019134784929",
+        "email": "ken.barlow@corrie.co.uk"
+    },
+    {
+        "first_name": "Rita",
+        "last_name": "Sullivan",
+        "phone": "01913478555",
+        "email": "rita.sullivan@corrie.co.uk"
+    },
+    {
+        "first_name": "Steve",
+        "last_name": "McDonald",
+        "phone": "01913478555",
+        "email": "steve.mcdonald@corrie.co.uk"
+    },
+    {
+        "first_name": "Updated",
+        "last_name": "User",
+        "phone": "0987654321",
+        "email": "updated@example.com"
+    },
+    {
+        "first_name": "Updated",
+        "last_name": "User",
+        "phone": "0987654321",
+        "email": "updated@example.com"
+    }
+]
